@@ -6,7 +6,7 @@
 Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻
 
 
-* [LinkedIn]([https://www.linkedin.com/in/maison-henrique/](https://www.linkedin.com/in/jessicahoraa/))
+* [LinkedIn](https://www.linkedin.com/in/maison-henrique/](https://www.linkedin.com/in/jessicahoraa/)
 * [E-mail](jessicahora1234@gmail.com)
 
 
