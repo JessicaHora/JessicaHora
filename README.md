@@ -3,7 +3,7 @@
 </p>
 
 
-Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻
+Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Data Engineer. 🚀🧑‍💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
