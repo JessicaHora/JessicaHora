@@ -26,9 +26,6 @@
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github.com/JessicaHora" alt="Github Stats" />
 
 
 ### Redes Sociais 
@@ -36,6 +33,8 @@
 * [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
 * [E-mail](jessicahora1234@gmail.com)
 
+ [![Linkedin Badge](https://www.linkedin.com/in/jessicahoraa/)](https://www.linkedin.com/in/jessicahoraa/)
+[![Gmail Badge](https://img.shields.io/badge/jessicahora1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicahora1234@gmail.com)](mailto:jessicahora1234@gmail.com)
 
 
 
