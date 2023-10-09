@@ -33,7 +33,7 @@
 * [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
 * [E-mail](jessicahora1234@gmail.com)
 
- [![Linkedin Badge](https://www.linkedin.com/in/jessicahoraa/)](https://www.linkedin.com/in/jessicahoraa/)
+ [![Linkedin Badge](https://img.shields.io/badge/-jessicahoraa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicahoraa/)](https://www.linkedin.com/in/jessicahoraa/) 
 [![Gmail Badge](https://img.shields.io/badge/jessicahora1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicahora1234@gmail.com)](mailto:jessicahora1234@gmail.com)
 
 
