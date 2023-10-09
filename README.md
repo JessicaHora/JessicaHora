@@ -26,7 +26,7 @@
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF) | (Em construção) |
-| ![SQL](https://img.shields.io/badge/SQL-sql%26color%3D3776AB%26logo%3DSQL%26logoColor%3DFFFFFF) | (Em construção) |
+| ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) | (Em construção) |
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ml%26color%3D3776AB%26logo%3Dml%26logoColor%3D693B69?logo=dependabot) | (Em construção) |
 | ![ AWS ](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) | (Em construção) |
 
