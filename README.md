@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Seja+bem+Vindo;Ao+meu+Github;Fique+avontade+para+conhecer+os+meus+projetos.)](https://git.io/typing-svg)
+ [![Typing SVG][![Typing SVG](https://readme-typing-svg.demolab.com?font=Eixo+2&size=24&duration=4000&pause=1000&color=9870EB&background=FFFFFF&center=true&vCenter=true&width=320&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Github.;Fique+a+Vontade+para+conhecer+meus+projetos+.)](https://git.io/typing-svg)
 
 <br />
 
