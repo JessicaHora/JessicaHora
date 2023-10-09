@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=27&duration=4000&pause=1000&color=E0BBF7&center=true&vCenter=true&multiline=true&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Github.;Fique+a+Vontade+para+conhecer+meus+projetos+." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=46&duration=4000&pause=1000&color=E0BBF7&center=true&vCenter=true&width=1080&height=80&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Github.;Fique+a+Vontade+para+conhecer+meus+projetos+.)](https://git.io/typing-svg)
 
 Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Data Engineer. 🚀🧑‍💻
 
