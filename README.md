@@ -7,7 +7,7 @@
 ----
 
 ### Sobre Mim
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://octodex.github.com/hulatocat/" />
 
 - 👨🏽‍💻 Atualmente curso Análise e desenvolvimento de sistemas pela PUC.  
 - 👯 Amante de gatos, dados e Livros.
