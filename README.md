@@ -49,4 +49,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
