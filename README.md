@@ -1,15 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
-<br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eixo+2&size=24&duration=4000&pause=1000&color=9870EB&background=FFFFFF&center=true&vCenter=true&width=320&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Github.;Fique+a+Vontade+para+conhecer+meus+projetos+." alt="Typing SVG"/> 
-</a>
-
-<br/>
+      <br> <h1> Olá Seja Bem vindo ao meu Github!
 
 Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Data Engineer. 🚀🧑‍💻
 
-
-* [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
-* [E-mail](jessicahora1234@gmail.com)
 
 
 ## Projetos
@@ -32,3 +26,8 @@ Amante de gatos, dados e Livros
 * Versionamento de Projetos: Git e Github
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
+
+### Redes Sociais 
+
+* [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
+* [E-mail](jessicahora1234@gmail.com)
