@@ -35,6 +35,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-jessicahoraa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicahoraa/)](https://www.linkedin.com/in/jessicahoraa/) 
 [![Gmail Badge](https://img.shields.io/badge/jessicahora1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicahora1234@gmail.com)](mailto:jessicahora1234@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@jessicahora-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jessicahora)](https://medium.com/@jessicahora)
 
 
 
