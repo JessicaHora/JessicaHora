@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
-      <br> <h1> Olá Seja Bem vindo ao meu Github!
+                             Olá Seja Bem vindo ao meu Github!
 
 Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Data Engineer. 🚀🧑‍💻
 
