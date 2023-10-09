@@ -26,6 +26,11 @@
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
 
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github.com/JessicaHora" alt="Github Stats" />
+
+
 ### Redes Sociais 
 
 * [LinkedIn](https://www.linkedin.com/in/jessicahoraa/)
