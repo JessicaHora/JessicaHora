@@ -21,6 +21,11 @@
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
 
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
