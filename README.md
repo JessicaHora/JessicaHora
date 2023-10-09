@@ -12,9 +12,10 @@
 ----
 
 ### Sobre Mim
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Atualmente curso Analise e desenvolvimento de sistemas pela PUC.  
-Amante de gatos, dados e Livros
+- 👨🏽‍💻 Atualmente curso Análise e desenvolvimento de sistemas pela PUC.  
+- 👯 Amante de gatos, dados e Livros.
 
 
 **Tenho experiência com:**
