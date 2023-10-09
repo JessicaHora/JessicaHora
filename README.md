@@ -4,11 +4,6 @@
 
 
 
-## Projetos
-
-
-* [Web Scraping]
-
 ----
 
 ### Sobre Mim
