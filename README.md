@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
- <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eixo+2&size=24&duration=4000&pause=1000&color=9870EB&background=FFFFFF&center=true&vCenter=true&width=320&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Github.;Fique+a+Vontade+para+conhecer+meus+projetos+." alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <br />
 
