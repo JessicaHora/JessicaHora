@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="">
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=marigold+trocchi&pause=1000&color=9870EB&background=FFFFFF&multiline=true&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+Perfil.;Fique+a+Vontade+para+conhecer+meus+projetos." alt="Typing SVG" /></a>
 
