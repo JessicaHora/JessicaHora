@@ -25,10 +25,10 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | ) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) |  |
 | [![SQL](https://img.shields.io/badge/SQL-sql%26color%3D3776AB%26logo%3DSQL%26logoColor%3DFFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) |  |
-| [![Machine Learning](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
-| [![ETL](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
+| [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ml%26color%3D3776AB%26logo%3Dml%26logoColor%3D693B69?logo=dependabot)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](Em construção) |
+| [![ETL](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle]( Em construção) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
