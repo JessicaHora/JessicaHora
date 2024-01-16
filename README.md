@@ -14,7 +14,7 @@
 
 
 **Tenho experiência com:**
-* SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn, Scikit-learn entre outras)
+* SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn,PySpark Scikit-learn)
 * Análise exploratória de dados, ETL, Estatística, WebScraping, Data Visualization
 * Databases: MySQL, PostgreSQL, MongoDB
 * Versionamento de Projetos: Git e Github
