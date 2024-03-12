@@ -20,6 +20,7 @@
 * Versionamento de Projetos: Git e Github
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
+* Servições de nuvem: Google Cloud, Microsoft Azure
 
 
 
@@ -36,7 +37,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
+## Minhas Badges
 
+[![cloud Badge](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53/badges/8161206)](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53)
 
 
 
