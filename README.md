@@ -39,9 +39,6 @@
   
 ## Minhas Badges
 
-[![cloud Badge](https://github.com/JessicaHora/JessicaHora/blob/main/badge%20gcp.png)](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53)
-
-
 <a href="https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53">
   <img src="https://github.com/JessicaHora/JessicaHora/blob/main/badge%20gcp.png" alt="cloud Badge" width="300"/>
 </a>
