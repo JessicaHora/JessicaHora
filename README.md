@@ -39,7 +39,7 @@
   
 ## Minhas Badges
 
-[![cloud Badge](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53/badges/8161206)](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53)
+[![cloud Badge](https://github.com/JessicaHora/JessicaHora/blob/main/badge%20gcp.png)](https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53)
 
 
 
