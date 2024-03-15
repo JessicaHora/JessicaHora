@@ -36,6 +36,14 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+
+##
+
+<p align="center">
+  <a href="https://github.com/JessicaHora/JessicaHora"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Jessicahora&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" alt="jessicahora's github stats" /></a>
+  </a>
+</p>
+
   
 ## Minhas Badges
 
@@ -46,16 +54,6 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53">
   <img src="https://github.com/JessicaHora/JessicaHora/blob/main/images/Captura%20de%20Tela%202024-03-13%20a%CC%80s%2013.58.50.png" alt="cloud Badge" width="300"/>
 </a>
-
-
-##
-
-<p align="center">
-  <a href="https://github.com/JessicaHora/JessicaHora"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Jessicahora&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" alt="jessicahora's github stats" /></a>
-  </a>
-</p>
-
-
 
 ### Redes Sociais 
 
