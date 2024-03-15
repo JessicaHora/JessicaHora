@@ -48,6 +48,15 @@
 </a>
 
 
+##
+
+<p align="center">
+  <a href="https://github.com/JessicaHora/JessicaHora"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Jessicahorag&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" alt="jessica hora's github stats" /></a>
+  </a>
+</p>
+
+
+
 ### Redes Sociais 
 
 
