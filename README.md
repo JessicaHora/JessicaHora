@@ -47,20 +47,7 @@
   </a>
 </p>
 
-  
-## Minhas Badges
 
-<a href="https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53">
-  <img src="https://github.com/JessicaHora/JessicaHora/blob/main/badge%20gcp.png" alt="cloud Badge" width="300"/>
-</a>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53">
-  <img src="https://github.com/JessicaHora/JessicaHora/blob/main/images/Captura%20de%20Tela%202024-03-13%20a%CC%80s%2013.58.50.png" alt="cloud Badge" width="300"/>
-</a>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/b328f26d-00b9-4527-9752-e76686407b53">
-  <img src="https://github.com/JessicaHora/JessicaHora/blob/main/images/Captura%20de%20tela%202024-03-18%20215601.png" alt="cloud Badge" width="300"/>
-</a>
 
 ### Redes Sociais 
 
