@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Atualmente curso Análise e desenvolvimento de sistemas pela PUC.  
-- 👯 Amante de gatos, dados e Livros.
+- ![](https://64.media.tumblr.com/55e062b0c5976f5a55236d046911532f/tumblr_inline_p81vs67K7X1qgg3e5_75sq.gifv) Amante de gatos, dados e Livros.
 
 
 **Tenho experiência com:**
