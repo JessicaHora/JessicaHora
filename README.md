@@ -15,12 +15,13 @@
 
 **Tenho experiência com:**
 * SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn,PySpark Scikit-learn)
-* Análise exploratória de dados, ETL, Estatística, WebScraping, Data Visualization,Apache Airflow
-* Databases: MySQL, PostgreSQL, MongoDB
+* Análise exploratória de dados, Estatística
+* WebScraping, Data Visualization,Apache Airflow
+* Databases: MySQL, PostgreSQL, SQLserver
 * Versionamento de Projetos: Git e Github
-* Organização de projetos: ClickUp
-* Ferramentas de BI: Power BI, Looker Studio (Data Studio)
-* Servições de nuvem: Google Cloud, Microsoft Azure
+* Organização de projetos: Trello
+* Ferramentas de BI: Power BI, Looker Studio (Data Studio),Tableau.
+* Servições de nuvem: Google Cloud, Microsoft Azure,AWs.
 
 
 
