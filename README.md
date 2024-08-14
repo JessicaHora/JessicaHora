@@ -9,8 +9,9 @@
 ### Sobre Mim
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 Atualmente curso Análise e desenvolvimento de sistemas pela PUC.  
+- 👨🏽‍💻 Graduada em Análise e desenvolvimento de sistemas.  
 - ![](https://64.media.tumblr.com/55e062b0c5976f5a55236d046911532f/tumblr_inline_p81vs67K7X1qgg3e5_75sq.gifv) Amante de gatos, dados e Livros.
+- Analista de De dados e entusiasta da Engenharia de dados!
 
 
 **Tenho experiência com:**
@@ -21,7 +22,8 @@
 * Versionamento de Projetos: Git e Github
 * Organização de projetos: Trello
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio),Tableau.
-* Servições de nuvem: Google Cloud, Microsoft Azure,AWs.
+* Servições de nuvem: Google Cloud,AWs.
+* virtualização: Docker
 
 
 
