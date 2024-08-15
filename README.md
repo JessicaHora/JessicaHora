@@ -4,6 +4,7 @@
 
 
 
+
 ----
 
 ### Sobre Mim
@@ -25,7 +26,7 @@
 * Servições de nuvem: Google Cloud,AWs.
 * virtualização: Docker
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JessicaHora&label=Profile%20views&color=0e75b6&style=flat" alt="JessicaHora" /> </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
