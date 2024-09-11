@@ -21,6 +21,16 @@ Combinando minhas experiências como Analista de Dados e meu interesse contínuo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JessicaHora&label=Profile%20views&color=0e75b6&style=flat" alt="JessicaHora" /> </p>
 
+
+<!-- Socials --> 
+
+<h3 align="center">Connect with me:</h3>  
+<div align="center">
+<a href="https://www.linkedin.com/in/jessicahoraa/" target="blank">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
+</a>
+
+
 <!-- Tech Stack --> 
 
 <h3 align="Center">Tech Stack:</h3>  
@@ -56,12 +66,5 @@ Combinando minhas experiências como Analista de Dados e meu interesse contínuo
 </p>
 
 
-
-### Redes Sociais 
-
-
-* [![Linkedin Badge](https://img.shields.io/badge/-jessicahoraa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicahoraa/)](https://www.linkedin.com/in/jessicahoraa/) 
-* [![Gmail Badge](https://img.shields.io/badge/jessicahora1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicahora1234@gmail.com)](mailto:jessicahora1234@gmail.com)
-* [![Medium Badge](https://img.shields.io/badge/-@jessicahora-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jessicahora)](https://medium.com/@jessicahora)
 
 
