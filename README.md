@@ -72,7 +72,3 @@
 * [![Medium Badge](https://img.shields.io/badge/-@jessicahora-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jessicahora)](https://medium.com/@jessicahora)
 
 
-
-
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
