@@ -7,24 +7,17 @@
 
 ----
 
-### Sobre Mim
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### Sobre Mim:
+                                            
+<p>
+<div align="center">
+<br>  Atualmente, atuo como Analista de Dados, desenvolvendo diversos projetos de análise e modelagem de dados utilizando ferramentas como SQL, Python, e plataformas de visualização. Sempre inicio os projetos com uma atitude positiva e orientada para soluções, buscando continuamente as melhores práticas para otimizar a eficiência e aplicar essas técnicas ao longo das tarefas. Acredito firmemente na importância de abordagens sustentáveis, e, como analista de dados, busco sempre garantir que as soluções desenvolvidas sejam duradouras e de fácil manutenção. Além disso, estou constantemente estudando e realizando projetos na área de engenharia de dados, aprofundando meu conhecimento em tópicos como computação distribuída, orquestração de pipelines, dados em streaming e ambientes em nuvem. Acredito que a base teórica é essencial para desenvolver soluções eficazes e escaláveis. Paralelamente, aprimoro minhas habilidades em Python e SQL, criando scripts complexos e consultas otimizadas para manipulação de grandes volumes de dados.
 
-- 👨🏽‍💻 Graduada em Análise e desenvolvimento de sistemas.  
-- ![](https://64.media.tumblr.com/55e062b0c5976f5a55236d046911532f/tumblr_inline_p81vs67K7X1qgg3e5_75sq.gifv) Amante de gatos, dados e Livros.
-- Analista de dados e entusiasta da Engenharia de dados!
+Combinando minhas experiências como Analista de Dados e meu interesse contínuo por engenharia de dados, busco construir soluções que unam análise estratégica e robustez técnica, sempre focada em criar valor e inovação. :)
+</div>
+ </p>
 
 
-**Tenho experiência com:**
-* SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn,PySpark Scikit-learn)
-* Análise exploratória de dados, Estatística
-* WebScraping, Data Visualization,Apache Airflow
-* Databases: MySQL, PostgreSQL, SQLserver
-* Versionamento de Projetos: Git e Github
-* Organização de projetos: Trello
-* Ferramentas de BI: Power BI, Looker Studio (Data Studio),Tableau.
-* Servições de nuvem: Google Cloud,AWs.
-* virtualização: Docker
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JessicaHora&label=Profile%20views&color=0e75b6&style=flat" alt="JessicaHora" /> </p>
 
